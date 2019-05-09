@@ -1,0 +1,34 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    15                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: akharrou <akharrou@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/03/24 15:02:33 by akharrou          #+#    #+#              #
+#    Updated: 2019/03/25 00:35:19 by akharrou         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
+
+# https://www.tecmint.com/setup-local-dns-using-etc-hosts-file-in-
+# linux/
+
+— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
+
+Append to the local DNS entries file the desired domain name and IP
+address.
+
+The internal DNS will, as a result reroute the domain name to the
+specified IP address.
+
+— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
+
+The command might look like this:
+
+     echo '46.19.122.85     intra.42.fr' >> /etc/hosts
+
+(but ofc we don't have access on these computers)
+
+— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —

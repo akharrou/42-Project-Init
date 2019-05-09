@@ -1,0 +1,25 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    11                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: akharrou <akharrou@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/03/24 19:34:40 by akharrou          #+#    #+#              #
+#    Updated: 2019/03/24 22:09:17 by akharrou         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#!/bin/sh
+
+# https://www.binarytides.com/linux-command-check-disk-partitions/
+
+# NAME
+# 		df - report file system disk space usage
+#
+#     ...
+#
+#	-h, --human-readable
+#			print sizes in powers of 1024 (e.g., 1023M)
+
+df -h

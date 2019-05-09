@@ -1,0 +1,20 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    04                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: akharrou <akharrou@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/03/24 16:17:47 by akharrou          #+#    #+#              #
+#    Updated: 2019/03/25 00:21:47 by akharrou         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#!/bin/sh
+
+# http://osxdaily.com/2009/09/22/check-your-macs-uptime-and-reboot-history/
+
+# NAME
+#      uptime -- show how long system has been running
+
+uptime

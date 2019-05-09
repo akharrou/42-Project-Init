@@ -1,0 +1,19 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    10                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: akharrou <akharrou@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/03/24 19:33:54 by akharrou          #+#    #+#              #
+#    Updated: 2019/03/25 01:45:48 by akharrou         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#!/bin/sh
+
+# https://www.binarytides.com/linux-command-check-disk-partitions/
+
+# Command that lists the partition tables of drives:
+
+fdisk -l

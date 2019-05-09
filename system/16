@@ -1,0 +1,22 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    16                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: akharrou <akharrou@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/03/24 22:09:36 by akharrou          #+#    #+#              #
+#    Updated: 2019/03/24 22:37:21 by akharrou         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# We can use the following service:
+
+# NAME
+#      cron -- daemon to execute scheduled commands (Vixie Cron)
+
+cron
+
+# and/or
+
+at

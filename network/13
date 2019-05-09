@@ -1,0 +1,20 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    13                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: akharrou <akharrou@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/03/24 14:57:18 by akharrou          #+#    #+#              #
+#    Updated: 2019/03/25 00:33:10 by akharrou         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# To find the name of our host we can do a reverse DNS lookup as so:
+
+# host $(ipconfig getifaddr en0)
+
+# To check that the hostname is indeed correct you can use the
+# 'hostname' command
+
+# The name of my host is ——>   'e1z2r1p13.42.us.org' (at least currently)

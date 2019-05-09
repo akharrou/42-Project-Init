@@ -1,0 +1,17 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    14                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: akharrou <akharrou@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/03/24 14:57:36 by akharrou          #+#    #+#              #
+#    Updated: 2019/03/24 23:35:25 by akharrou         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+What file contains the local DNS entries?
+
+	> The file that contains the local DNS entries is: '/etc/hosts' .
+
+# https://www.tecmint.com/setup-local-dns-using-etc-hosts-file-in-linux/

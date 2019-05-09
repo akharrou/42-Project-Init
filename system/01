@@ -1,0 +1,19 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    01                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: akharrou <akharrou@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/03/24 15:48:57 by akharrou          #+#    #+#              #
+#    Updated: 2019/03/25 00:54:42 by akharrou         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# https://whatsmyos.com/ (search '/etc/issue')
+
+# The following file, contains the distribution version installed: '/etc/issue'
+
+# Output
+# $> cat /etc/issue
+# Debian GNU/Linux 9 \n \l

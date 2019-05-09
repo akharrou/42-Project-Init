@@ -1,0 +1,19 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    03                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: akharrou <akharrou@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/03/24 15:57:53 by akharrou          #+#    #+#              #
+#    Updated: 2019/03/25 00:55:03 by akharrou         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# https://www.cyberciti.biz/faq/ubuntu-change-hostname-command/
+
+# To change the hostname permantly edit the following file:
+/etc/hostname
+
+# and (possibly) also:
+/etc/hosts

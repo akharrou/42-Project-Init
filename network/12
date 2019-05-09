@@ -1,0 +1,21 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    12                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: akharrou <akharrou@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/03/24 12:53:05 by akharrou          #+#    #+#              #
+#    Updated: 2019/03/24 23:22:08 by akharrou         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+
+# The Dynamic Host Configuration Protocol (DHCP) is a network management
+# protocol used on UDP/IP networks whereby a DHCP server dynamically assigns
+# an IP address and other network configuration parameters to each device on
+# a network so they can communicate with other IP networks.
+
+# The IP assigned to us by the DHCP Server is found with the following command:
+
+ipconfig getifaddr en0

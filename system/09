@@ -1,0 +1,21 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    09                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: akharrou <akharrou@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/03/24 17:52:35 by akharrou          #+#    #+#              #
+#    Updated: 2019/03/24 19:34:58 by akharrou         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#!/bin/sh
+
+# http://osxdaily.com/2014/03/25/see-users-who-connected-to-mac/
+
+# To see the currently logged users, you can use the following command:
+
+echo '[CURRENTLY LOGGED USERS]:\n'
+
+who

@@ -1,0 +1,21 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    22                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: akharrou <akharrou@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/03/24 22:09:36 by akharrou          #+#    #+#              #
+#    Updated: 2019/03/25 01:28:03 by akharrou         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#!/bin/sh
+
+# https://askubuntu.com/questions/985296/how-can-i-add-a-user-and-set-the-
+# password-for-them-at-the-same-time
+
+# NAME
+# 		adduser - add a user or group to the system
+
+adduser $1

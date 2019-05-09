@@ -1,0 +1,19 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    05                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: akharrou <akharrou@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/03/24 16:24:18 by akharrou          #+#    #+#              #
+#    Updated: 2019/03/25 01:25:12 by akharrou         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#!/bin/sh
+
+# https://elearning.intra.42.fr/notions/init/subnotions/roger-skyline-1/
+# videos/init-presentation
+# @min 2:17
+
+service sshd status

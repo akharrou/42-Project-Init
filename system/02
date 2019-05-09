@@ -1,0 +1,23 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    02                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: akharrou <akharrou@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/03/24 15:51:32 by akharrou          #+#    #+#              #
+#    Updated: 2019/03/25 01:25:02 by akharrou         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#!/bin/sh
+
+# https://www.cyberciti.biz/faq/ubuntu-change-hostname-command/
+
+# The following command changes the computers hostname:
+
+if [ $# -eq 1 ];
+then
+	hostname $1;
+	echo 'Hostname changed to' $1;
+fi

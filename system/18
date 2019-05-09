@@ -1,0 +1,20 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    18                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: akharrou <akharrou@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/03/24 22:09:36 by akharrou          #+#    #+#              #
+#    Updated: 2019/03/25 01:25:50 by akharrou         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#!/bin/sh
+
+# https://www.cyberciti.biz/faq/howto-start-stop-ssh-server/
+
+service ssh stop
+
+# also possibly with the 'kill' command: https://haydenjames.io/kill-inactive-ssh
+#                                        -sessions/

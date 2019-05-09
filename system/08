@@ -1,0 +1,21 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    08                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: akharrou <akharrou@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/03/24 17:35:16 by akharrou          #+#    #+#              #
+#    Updated: 2019/03/25 01:44:37 by akharrou         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# 1) https://askubuntu.com/questions/512935/where-are-ssh-client-private-keys-
+#    stored
+
+# 2) https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on
+#    -ubuntu-1604
+
+# The keys once generated can be found in this file:
+
+~/.ssh/authorized_keys

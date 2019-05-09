@@ -1,0 +1,24 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    02                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: akharrou <akharrou@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/03/24 14:43:58 by akharrou          #+#    #+#              #
+#    Updated: 2019/03/25 01:27:53 by akharrou         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# https://www.godaddy.com/help/remove-a-linux-user-19158
+
+# NAME
+#       userdel - delete user account and related files
+#
+# SYNOPSIS
+#       userdel [options] LOGIN
+#
+# DESCRIPTION
+#       userdel is a low level utility for removing users.
+
+userdel -r $1
